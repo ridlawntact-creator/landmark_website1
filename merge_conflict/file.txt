@@ -1,2 +1,1 @@
-Line 1 - original file
-Line 2 - original file
+CHANGE FROM BRANCH A
